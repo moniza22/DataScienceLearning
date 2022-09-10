@@ -1,1 +1,2 @@
-
+Bash means Bourne again shell. Its an emulation layer for windows command terminal so the users can interact with git.
+In Bash we can do certain tasks like cloning a repository to our local folder, can add or edit files then push that changes back in git.
